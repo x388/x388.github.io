@@ -1,8 +1,8 @@
-## Welcome to 发春出版社
+## 欢迎来到 发春出版社
 
- [官网](https://lspdfrcn.com/) .
+ [LSPDFRCN站点](https://lspdfrcn.com/) .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+当你看到这个网站的时候，这无疑是发春出版社的官网，但是你依然可以在 [爱发电平台](https://afdian.net/@fccbscn) 对我们进行赞助
 
 ### Markdown
 
