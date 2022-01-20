@@ -1,37 +1,19 @@
-## 欢迎来到 发春出版社
+## 欢迎来到发春出版社
 
- [LSPDFRCN站点](https://lspdfrcn.com/) .
+ [爱发电官网](https://afdian.net/@fccbscn)
 
-当你看到这个网站的时候，这无疑是发春出版社的官网，但是你依然可以在 [爱发电平台](https://afdian.net/@fccbscn) 对我们进行赞助
+当你看到这个网站的时候，这无疑是发春出版社的官网，但是你依然可以在 [爱发电官网](https://afdian.net/@fccbscn) 对我们进行赞助
 
-### Markdown
+### 完善
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+网站到目前为止还在完善之中，大家可以浏览爱发电官网
 
-```markdown
-Syntax highlighted code block
+预计1月25日完善成功，25-26日进行网站维护
 
-# Header 1
-## Header 2
-### Header 3
+### 赞助
 
-- Bulleted
-- List
+如果你支持我们的工作，可以赞助我们。目前网站正在完善和开发，请到爱发电平台进行赞助
 
-1. Numbered
-2. List
+### 服务与建议
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/x388/x388.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+遇到问题了？马上向我们反馈！目前网站正在完善和开发，暂不支持此功能
